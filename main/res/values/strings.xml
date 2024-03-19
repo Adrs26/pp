@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CollegePal</string>
+    <string name="tugas">Tugas</string>
+    <string name="tugas_belum_selesai">Belum Selesai</string>
+    <string name="tugas_selesai">Selesai</string>
+    <string name="nama_mata_kuliah">Nama Mata Kuliah</string>
+    <string name="tenggat_waktu">Tenggat Waktu</string>
+    <string name="deskripsi_tugas">Deskripsi</string>
+    <string name="selected_date">%1$d-%2$d-%3$d</string>
+</resources>
